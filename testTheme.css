@@ -247,18 +247,4 @@
     }
   }
 
-/* 6. Misc */
-#ghostping-panel {
-  background-image: linear-gradient(var(--primary-color), var(--primary-color)), var(--background-image) !important;
-  background-size: cover, cover;
-  background-position: center, center;
-  background-attachment: initial, fixed;
-}
 
-.lookGhost-2Fn_0-::before {
-  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), var(--background-image) center/cover no-repeat fixed;
-}
-
-.lookGhost-2Fn_0-.colorBrand-3pXr91::before {
-  opacity: .9;
-}

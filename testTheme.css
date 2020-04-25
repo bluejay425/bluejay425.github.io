@@ -7,9 +7,6 @@
   
 
 
-  .content-3dzVd8 .innerNoAutocomplete-1WpcVO {
-    background-color: var(--tertiary-color) !important;
-  }
 
   /* 4. Popouts & Modals */
   .colorPickerCustom-2CWBn2 {
@@ -71,22 +68,7 @@
     background: var(--tertiary-color);
   }
   
-  .userPopout-3XzG_A,
-  .create-guild-container.deprecated,
-  .inner-1JeGVc .root-SR8cQa,
-  .container-2x5lvQ,
-  .container-2Yth53,
-  .userList-1kLH8B,
-  #permissions-modal-wrapper #permissions-modal,
-  .create-guild-container-new.deprecated .form.deprecated,
-  .toast,
-  .inner-2VEzy9 .root-SR8cQa,
-  #app-mount .modal-3c3bKg .inner-1ilYF7 .root-SR8cQa {
-    background-image: var(--popup-background) !important;
-    background-size: cover !important;
-    background-repeat: no-repeat !important;
-    background-position: center !important;
-  }
+
   
   #app-mount .quickswitcher-3JagVE,
   #app-mount .modal-3HD5ck,
